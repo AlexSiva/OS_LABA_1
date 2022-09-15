@@ -1,0 +1,7 @@
+﻿  Vect.cpp
+C:\Users\АлексейСС\source\repos\Vect\Vect\Vect.h(10,18): warning C4251: Vector::coord1: class "Number<double>" должен иметь dll-интерфейс для использования клиентами class "Vector"
+C:\Users\АлексейСС\source\repos\Numb\Numb\Maths.h(31): message : см. объявление "Number<double>"
+C:\Users\АлексейСС\source\repos\Vect\Vect\Vect.h(11,18): warning C4251: Vector::coord2: class "Number<double>" должен иметь dll-интерфейс для использования клиентами class "Vector"
+C:\Users\АлексейСС\source\repos\Numb\Numb\Maths.h(31): message : см. объявление "Number<double>"
+     Создается библиотека C:\Users\АлексейСС\source\repos\Vect\x64\Debug\Vect.lib и объект C:\Users\АлексейСС\source\repos\Vect\x64\Debug\Vect.exp
+  Vect.vcxproj -> C:\Users\АлексейСС\source\repos\Vect\x64\Debug\Vect.dll
